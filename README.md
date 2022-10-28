@@ -1,3 +1,5 @@
+More info: https://www.kaggle.com/code/ardawrld/breast-cancer-image-segmentation-cnn
+
 # Breast Ultrasound Image Classification Using CNN
 
 ![download](https://user-images.githubusercontent.com/98955591/198652637-1a9df32d-d35d-40a5-8ae3-340ae67258a0.jpg)
